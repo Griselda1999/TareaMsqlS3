@@ -5,7 +5,7 @@ Se creó una base de datos donde se almacena información importante de los estu
 ### Diagrama Entidad Relacion 
 ![image](https://github.com/Griselda1999/TareaMsqlS3/assets/116777541/2367d041-cf03-47cf-b65d-a88758c425ee)
 
-Tenemos ocho tablas las cuales son Carrera, Matricula, Alumno, Asiste, Sección, Materia, Docente, Campus.
+Tenemos ocho tablas las cuales son *Carrera, Matricula, Alumno, Asiste, Sección, Materia, Docente, Campus.
 
 Donde la tabla sección depende de las tablas materia, docente y campus ya que esa tabla debe de guardar el número de aula el campus donde recibirá clases esa sección el docente que les impartirá clases y la materia que lleva esa sección.
 
