@@ -1,5 +1,5 @@
 # TareaMsqlS3
-### Base de Datos Para el Registro de Estudiantes
+## Base de Datos Para el Registro de Estudiantes
 Se creó una base de datos donde se almacena información importante de los estudiantes como ser Carrera que estudia el campus donde reciben sus clases las materias que lleva las secciones donde están inscritos y los docentes que impartes esas clases.
 
 ### Diagrama Entidad Relacion 
